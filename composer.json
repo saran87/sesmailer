@@ -1,6 +1,7 @@
 {
     "name": "kumar/sesmailer",
     "description": "AWS ses Laravel wrapper with functionality similar to Laravel's Mailer ",
+    "license": "MIT",
     "authors": [
         {
             "name": "Saravana Kumar",
